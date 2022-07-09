@@ -1,2 +1,3 @@
 # ENDGAME
-Project with Data StructTure &amp; algorithm class and classmate
+자료구조 & 알고리즘 게임개발 때 학교에서 제작한 2인 프로젝트입니다.
+클리커 낚시 게임을 만들었습니다.
